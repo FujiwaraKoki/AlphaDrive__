@@ -1,0 +1,86 @@
+[
+    {
+        "model": "users.CustomUser",
+        "pk": 1,
+        "fields": {
+            "username": "admin",
+            "password": "tmp_pass_1",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": false,
+            "is_active": false,
+            "is_superuser": true,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 2,
+        "fields": {
+            "username": "TEST2 次郎",
+            "password": "tmp_pass_2",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 3,
+        "fields": {
+            "username": "TEST3 三郎",
+            "password": "tmp_pass_3",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 4,
+        "fields": {
+            "username": "TEST4 四郎",
+            "password": "tmp_pass_4",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 5,
+        "fields": {
+            "username": "TEST5 五郎",
+            "password": "tmp_pass_5",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 6,
+        "fields": {
+            "username": "TEST6 六郎",
+            "password": "tmp_pass_6",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "model": "users.CustomUser",
+        "pk": 1,
+        "fields": {
+            "username": "non-admin",
+            "user_name": "non-admin",
+            "first_name": "non-admin",
+            "last_name": "",
+            "password": "tmp_pass_1",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": false,
+            "is_active": false,
+            "is_superuser": true,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 2,
+        "fields": {
+            "username": "admin-user1",
+            "user_name": "admin-user1(管理者)",
+            "first_name": "admin-user1",
+            "last_name": "(管理者)",
+            "password": "tmp_pass_2",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 3,
+        "fields": {
+            "username": "admin-user2",
+            "user_name": "admin-user2(管理者)",
+            "first_name": "admin-user2",
+            "last_name": "(管理者)",
+            "password": "tmp_pass_3",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 4,
+        "fields": {
+            "username": "admin-user3",
+            "user_name": "admin-user3(管理者)",
+            "first_name": "admin-user3",
+            "last_name": "(管理者)",
+            "password": "tmp_pass_4",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 5,
+        "fields": {
+            "username": "admin-user4",
+            "user_name": "admin-user4(管理者)",
+            "first_name": "admin-user4",
+            "last_name": "(管理者)",
+            "password": "tmp_pass_5",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 6,
+        "fields": {
+            "username": "admin-user5",
+            "user_name": "admin-user5(管理者)",
+            "first_name": "admin-user5",
+            "last_name": "(管理者)",
+            "password": "tmp_pass_6",
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z",
+            "is_staff": true,
+            "is_active": true,
+            "is_superuser": false,
+            "group_company_id": 1
+        }
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 10,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 11,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 3,
+        "fields": {
+            "user": 1,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 12,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 4,
+        "fields": {
+            "user": 2,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 10,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 5,
+        "fields": {
+            "user": 2,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 11,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 6,
+        "fields": {
+            "user": 2,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 12,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 7,
+        "fields": {
+            "user": 3,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 10,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 8,
+        "fields": {
+            "user": 3,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 11,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 9,
+        "fields": {
+            "user": 3,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 12,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 10,
+        "fields": {
+            "user": 4,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 10,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 11,
+        "fields": {
+            "user": 4,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 11,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    },
+    {
+        "model": "shift_manage.MaxOfficeHour",
+        "pk": 12,
+        "fields": {
+            "user": 4,
+            "max_hours": 140.0,
+            "year": 2023,
+            "month": 12,
+            "created_at": "2023-10-01T00:00:00.000000Z",
+            "updated_at": "2023-10-01T00:00:00.000000Z"
+        }
+    }
+]
